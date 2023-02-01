@@ -18,7 +18,7 @@ function App() {
     try {
       // url originally "http://localhost:3000/image" during development.
       // Changed to "/image" for build.
-      const response = await fetch('http://localhost:3000/image', {
+      const response = await fetch('/image', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
