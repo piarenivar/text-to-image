@@ -1,0 +1,19 @@
+{
+  "name": "text-to-image",
+  "version": "1.0.0",
+  "description": "Text to image generator.",
+  "main": "./server/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piarenivar/text-to-image.git"
+  },
+  "author": "Pablo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piarenivar/text-to-image/issues"
+  },
+  "homepage": "https://github.com/piarenivar/text-to-image#readme"
+}
